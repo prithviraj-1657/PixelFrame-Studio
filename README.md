@@ -1,5 +1,5 @@
 # 📸 PixelFrame Studio
-## 👥 Group Project - SGGS Institute of Engineering & Technology
+## 👥 Group Project - NEWTON SCHOOL OF TECHNOLOGY
 
 <div align="center">
 
@@ -22,11 +22,11 @@
 
 ## 👥 Team Members
 
-| Name | GitHub | Role | Contribution |
-|------|--------|------|---------------|
-| **Prithviraj** | [@prithviraj-1657](https://github.com/prithviraj-1657) | Lead Developer | Frontend, Gallery, Animations |
-| **Suraj Patil** | [@SurajPatil1404](https://github.com/SurajPatil1404) | Co-Developer | Backend Integration, Forms |
-| **Team Member 3** | `[GitHub Link]` | Developer | Responsive Design, Testing |
+| Name | GitHub | 
+|------|--------|
+| **Prithviraj** | [@prithviraj-1657](https://github.com/prithviraj-1657) |    
+| **Suraj Patil** | [@SurajPatil1404](https://github.com/SurajPatil1404) |  
+| **Atharv Deshpande** | [@Noctis-404](https://github.com/Noctis-404) |
 
 > 💡 **Note:** Update the team member table with actual names, GitHub profiles, and specific responsibilities.
 
@@ -34,7 +34,7 @@
 
 ## 📋 Project Overview
 
-This is a **collaborative web development project** created by students at **Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGS)**. The project aims to demonstrate professional web development practices including:
+This is a **collaborative web development project** created by students at **NEWTON SCHOOL OF TECHNOLOGY (NST-ADYPU)**. The project aims to demonstrate professional web development practices including:
 
 - ✅ Version control and Git workflows
 - ✅ Responsive design and mobile-first development
@@ -245,16 +245,6 @@ This project helps team members understand:
 
 ---
 
-## 🐛 Known Issues & Bugs
-
-| Issue | Status | Assigned To | Notes |
-|-------|--------|-------------|-------|
-| Gallery loading on slow connections | 🔄 In Progress | [@prithviraj-1657](https://github.com/prithviraj-1657) | Implementing lazy-loading |
-| Form email notifications | ⏳ To Do | [@SurajPatil1404](https://github.com/SurajPatil1404) | Requires backend setup |
-| Mobile menu animation glitch | ✅ Resolved | - | Fixed in PR #12 |
-
----
-
 ## 🚀 Deployment
 
 ### GitHub Pages
@@ -302,7 +292,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **SGGS Institute of Engineering and Technology** - Academic institution
+- **NEWTON SCHOOL OF TECHNOLOGY** - Academic institution
 - **Course Instructor** - Guidance and mentorship
 - **Team Collaboration** - Collective effort and dedication
 - **Open Source Community** - Inspiration and resources
@@ -330,7 +320,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the PixelFrame Studio Team**
 
-*SGGS Institute of Engineering and Technology*
+*NEWTON SCHOOL OF TECHNOLOGY*
 
 *Last Updated: December 2025*
 
